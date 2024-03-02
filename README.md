@@ -15,3 +15,17 @@ This repository contains the source code for a Sales Performance App designed to
 - Frontend: [React](https://reactjs.org/), [Chart.js](https://www.chartjs.org/)
 - Backend: [Node.js](https://nodejs.org/), [Express](https://expressjs.com/)
 - Database: [MongoDB](https://www.mongodb.com/)
+
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/matthamp/SUMIT24.git
+
+   cd SUMIT24
+   
+npm install
+
+npm start
